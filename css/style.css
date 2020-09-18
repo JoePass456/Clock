@@ -1,0 +1,22 @@
+div {
+    border: solid 3px black;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 40px;
+    /*background-image: url('../img/IMG_0988.jpeg');
+    background-size: cover;*/
+    font-family: "Gill Sans", sans-serif;
+    text-align: center;
+    background-color: lightcyan
+}
+
+h1 {
+    font-family: "Gill Sans", sans-serif;
+    text-align: center;
+    border: solid 3px black;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 40px;
+    visibility: hidden;
+    background-color: lightcyan
+}
