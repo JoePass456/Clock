@@ -76,7 +76,7 @@ function result() {
             if (amPm == 'AM') {
                 amPm = 'PM';
             } else {
-                amPm = 'PM';
+                amPm = 'AM';
             }
         }
 
